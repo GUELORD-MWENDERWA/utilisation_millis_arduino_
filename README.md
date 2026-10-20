@@ -36,4 +36,4 @@ If the display stays blank, confirm the I2C address with an I2C scanner sketch (
 
 ## License
 
-No license has been specified yet. Contact the author before reusing this code.
+MIT. See [LICENSE](LICENSE).
